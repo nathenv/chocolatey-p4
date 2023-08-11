@@ -1,7 +1,5 @@
 ﻿# P4: Helix Command-Line Client Chocolatey Package
 
-[![Build status](https://ci.appveyor.com/api/projects/status/dba779nlbhrd055l/branch/master?svg=true)](https://ci.appveyor.com/project/ripclawffb/chocolatey-p4/branch/master)
-
 The P4 command-line client provides access to all Perforce features and functions as an interface for scripting and automated operations.
     
 Customize automation for your development and administrative processes by embedding commands using Perl, Python, or any other scripting language. You can tailor operations for automating Continuous Integration/Continuous Development (CI/CD) to create your ideal workflow.
